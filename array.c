@@ -14,6 +14,6 @@ int main()
     {
         printf("fibonacci is  = %d\n",a[i]);
     }
-    
+    printf("p");
     return 0;
 }
